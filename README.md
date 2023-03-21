@@ -1,8 +1,8 @@
 ### Hi there 👋, i'm Veronika!
 
-I'm a self-taught passionate FrontEnd developer from Poland
-
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjOTc2OTkyZTQ4ZmZmNjM4MGVlYjNhMWE1ZjI5YzQzYjFhN2Y0NiZjdD1n/dbtDDSvWErdf2/giphy.gif" width="350" height="190" />
+
+I'm a self-taught passionate FrontEnd developer from Poland
 
 <h2>About me</h2>
 
