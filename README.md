@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Veronika!
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](http://www.tumblr.com/" />
 
 <ul>
 <li>🧐 Learning about <strong>Frontend technologies</strong>, <strong>JS, React</strong>, and a bit of <strong>AWS</strong>.</li>
@@ -47,6 +47,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="48" height="48"/>
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weranika&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weranika&hide=TeX&layout=compacte&theme=tokyonight)
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Weranika.Weranika" alt="visitors"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Weranika&show_icons=true&theme=algolia" alt="Readme Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Weranika&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" /></p>
