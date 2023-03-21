@@ -1,9 +1,13 @@
 ### Hi there 👋, i'm Veronika!
 
+I'm a self-taught passionate FrontEnd developer from Poland
+
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjOTc2OTkyZTQ4ZmZmNjM4MGVlYjNhMWE1ZjI5YzQzYjFhN2Y0NiZjdD1n/dbtDDSvWErdf2/giphy.gif" />
 
+<h2>About me</h2>
+
 <ul>
-<li>🧐 Learning about <strong>Frontend technologies</strong>, <strong>JS, React</strong>, and a bit of <strong>AWS</strong>.</li>
+<li>❤️ I'm lerning <strong>Frontend technologies</strong>, <strong>JS, React</strong>, and a bit of <strong>AWS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Weranika?tab=repositories">Github</a>.</li>
 <li>📙 Check out my <a href="https://github.com/Weranika/rsschool-cv/blob/cv/CV_Veranika_Lapanava.pdf">resume</a>.</li>
 </ul>
