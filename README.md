@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Veronika!
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](http://www.tumblr.com/" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjOTc2OTkyZTQ4ZmZmNjM4MGVlYjNhMWE1ZjI5YzQzYjFhN2Y0NiZjdD1n/dbtDDSvWErdf2/giphy.gif" />
 
 <ul>
 <li>🧐 Learning about <strong>Frontend technologies</strong>, <strong>JS, React</strong>, and a bit of <strong>AWS</strong>.</li>
